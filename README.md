@@ -19,6 +19,7 @@
 2. Install the dependencies:
 
 	`cd identity-verification`
+	
 	`npm install`
 
 3. Compile the smart contracts:
