@@ -18,7 +18,7 @@
 
 2. Install the dependencies:
 
-	`cd identity-verification`
+	`cd IdentityVerification`
 	
 	`npm install`
 
