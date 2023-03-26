@@ -1,4 +1,4 @@
-#IdentityVerification
+# IdentityVerification DApp
 
 **A decentralized identity verification and management DApp built on Ethereum.**
 
